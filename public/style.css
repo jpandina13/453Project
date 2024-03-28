@@ -1,0 +1,15 @@
+.main {
+    text-align: center;
+}
+
+
+/*
+Align with middle of Input text
+*/
+.input {
+    vertical-align: middle;
+}
+
+.hidden {
+    display: none !important;
+}
